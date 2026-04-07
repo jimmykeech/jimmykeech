@@ -2,6 +2,6 @@
 
 ### Hey, I'm Jimmy 🤟🏼
 
-Always building something. Senior data engineer at [ATO](https://www.ato.gov.au/) · Canberra, AUS
+Always building something. Senior data engineer @ [ATO](https://www.ato.gov.au/) · Canberra, AUS
 
 [jimmykeech.io](https://jimmykeech.io)
